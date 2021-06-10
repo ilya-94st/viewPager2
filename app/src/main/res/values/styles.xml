@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ArticleViewPager2">
+        <item name="android:layout_marginTop">@dimen/m</item>
+        <item name="android:overScrollMode">never</item>
+    </style>
+
+    <style name="LinerArticleViewPager2">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="OnBoardingViewPager2">
+        <item name="android:overScrollMode">never</item>
+        <item name="android:layout_marginTop">@dimen/x110</item>
+    </style>
+
+
+    <style name="LinerOnBoardingViewPager2">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center</item>
+
+
+    </style>
+
+    <style name="LinearLayoutSlideContayner2">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_marginLeft">@dimen/xl</item>
+        <item name="android:layout_marginTop">@dimen/m</item>
+        <item name="android:layout_marginRight">@dimen/xl</item>
+
+    </style>
+
+    <style name="OnboardingText">
+        <item name="android:layout_marginTop">@dimen/xxxxx</item>
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/textArticle</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextTime2Slide2">
+       <item name="android:layout_marginLeft">@dimen/xl</item>
+       <item name="android:layout_marginTop">@dimen/xs</item>
+    </style>
+
+    <style name="TextTitleSlide2">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">@dimen/xl</item>
+        <item name="android:layout_marginTop">@dimen/s</item>
+    </style>
+
+    <style name="TextSlideConteyner">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/purple_500</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

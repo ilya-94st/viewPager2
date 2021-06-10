@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Staselovich_L13_T1</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="skipIntro">skipIntro</string>
+    <string name="buttonNext">Next</string>
+    <string name="textArticle">Read articles with pleasure</string>
+    <string name="mainMenu">Menu</string>
+    <string name="pages">Pages</string>
+
+
+</resources>
